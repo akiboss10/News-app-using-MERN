@@ -23,8 +23,7 @@ Description: The news feed displays real-time news articles with search and filt
 ![Screenshot 2025-01-14 161819](https://github.com/user-attachments/assets/5e070b10-bab1-4a7d-96ca-5a428144802f)
 Description: Users can search for news articles by keywords or filter by country to view regional updates.
 
-
-About the Technologies
+# About the Technologies
 Frontend: Built using React.js and styled with Tailwind CSS for a modern and responsive UI.
 Backend: Developed with Node.js and Express.js to handle API requests and server-side operations.
 Database: MongoDB is used for secure and efficient user data storage.
